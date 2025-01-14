@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Create an Account (INVALID PASS REQUIREMENT)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a94552d7-d291-4414-859e-ab2ed550b442</testCaseGuid>
+</TestCaseEntity>

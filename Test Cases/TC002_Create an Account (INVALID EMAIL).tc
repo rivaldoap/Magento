@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Create an Account (INVALID EMAIL)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>474d824f-e608-4310-b16c-3b2433470259</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_Create an Account (With Registered Email)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>42d6d31c-27fb-4386-91c6-6bdfee76d778</testCaseGuid>
+</TestCaseEntity>
